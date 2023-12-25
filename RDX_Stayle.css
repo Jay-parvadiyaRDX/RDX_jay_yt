@@ -60,10 +60,9 @@
   }
 
   .about{
-    align-items: center;
-    align-content: center;
+    margin-inline-start: auto; 
+    margin-inline-end: auto;
     text-align: center;
     margin-top: 50px;
-    margin-left: 300px;
-    margin-right: 300px;
+    
   }
